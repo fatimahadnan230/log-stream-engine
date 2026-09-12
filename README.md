@@ -8,4 +8,4 @@ An asynchronous, high-throughput log aggregation and network telemetry processor
 - **Micro-Dashboard Interface:** Live traffic analytics built with lightweight client rendering.
 
 ## Quickstart
-Live Demo: `[https://fatimahadnan230.github.io/log-stream-engine/]`
+Live Demo: `https://fatimahadnan230.github.io/log-stream-engine/`
